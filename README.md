@@ -1,6 +1,6 @@
 # 2-Player-Pong-Game-Python
 
-This is a two player Pong game written in Python 3.8.
+This is a two player Pong game written in Python 3.8 using Turtle graphics.
 
 Player 1 controls: 
 
