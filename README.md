@@ -10,3 +10,5 @@ Player 2 controls:
 
 move paddle left: Left arrow, move paddle right: Right arrow
 
+Credit to @TokyoEdTech for his helpful Python tutorial videos.
+
