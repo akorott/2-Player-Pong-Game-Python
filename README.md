@@ -4,9 +4,9 @@ This is a two player Pong game written in Python 3.8 using Turtle graphics.
 
 Player 1 controls: 
 
-move paddle up: w, move paddle down: s
+move paddle left: a, move paddle right: s
 
 Player 2 controls:
 
-move paddle up: Up arrow, move paddle down: down arrow
+move paddle left: Left arrow, move paddle right: Right arrow
 
